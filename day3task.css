@@ -2,11 +2,10 @@
     box-sizing: border-box;
     margin:0px;
 }
+
 .card{
     width: 16rem;
 }
-
-
 
 .card img{
     height: 200px;
